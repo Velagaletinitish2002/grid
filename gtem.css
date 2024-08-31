@@ -1,0 +1,40 @@
+.hea{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: blue;
+    background-color: black;
+  
+}
+.container{
+    margin: 10px;
+    margin-left: 150px;
+
+    display: flex;
+    gap: 15px;
+    width: 100%;
+   
+}
+.cont{
+    margin: 10px;
+    margin-left: 150px;
+    display: flex;
+    gap: 15px;
+    width: 100%;
+
+}
+h3{
+    text-align: center;
+    color: red;
+}
+body{
+    background-color: black;
+}
+.item{
+    border: solid 2px orangered;
+}
+p{
+    color: skyblue;
+    width: 300px;
+    text-align: center;
+}
